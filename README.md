@@ -29,12 +29,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/fillbasket-supermarket.git
+    git clone https://github.com/your-username/fillbasket-supermarket.git](https://github.com/Vikasbk27/Deprtment-Billing-Store.git)
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd fillbasket-supermarket
+    cd Department-Billing-Store
     ```
 
 3. **Open `index.html` in your browser**:
